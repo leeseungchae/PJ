@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
 *.jpg
 *.jpeg
@@ -256,3 +257,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+=======
+!/.h5
+>>>>>>> origin/main
